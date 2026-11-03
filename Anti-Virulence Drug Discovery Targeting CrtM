@@ -1,0 +1,48 @@
+ChemDiv Library
+(144,000 compounds)
+          ↓
+Ligand Preparation
+(LigPrep, OPLS4, pH 7.2 ± 0.2)
+          ↓
+CrtM Protein Preparation
+(PDB ID: 3AE0)
+          ↓
+Binding Site Identification
+(SiteMap)
+          ↓
+Receptor Grid Generation
+          ↓
+Virtual Screening
+(HTVS)
+          ↓
+Top 10% Hits
+          ↓
+XP Docking
+          ↓
+Top 20 Compounds
+          ↓
+MM/GBSA Analysis
+          ↓
+Top 10 Compounds
+          ↓
+ADME Prediction
+(QikProp)
+          ↓
+Toxicity Prediction
+(ProTox-III)
+          ↓
+Interaction Fingerprint Analysis
+(SIFT)
+          ↓
+Selection of Top Hits
+(Cmpd1, Cmpd2, Cmpd7, Cmpd9)
+          ↓
+100 ns Molecular Dynamics
+(Desmond)
+          ↓
+Post-MD MM/GBSA
+          ↓
+DCCM Analysis
+          ↓
+Lead Identification
+(Cmpd1 & Cmpd2)
